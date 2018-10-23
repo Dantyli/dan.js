@@ -93,5 +93,5 @@
         }
    }
    a.fn.init.prototype=a.fn
-   win.a=a
+   win.Dan=a
 })(window)
